@@ -7,6 +7,10 @@
    changing the threshold. It puts the left button for left click
    the bottom button for middle click and the right button for
    right click. The top button is to toggle if it is on or not. 
+   
+   
+   
+   This is just to show editing!
 */
    
 #include <Esplora.h>
